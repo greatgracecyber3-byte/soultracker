@@ -1,0 +1,21 @@
+{
+  "short_name": "SoulTracker",
+  "name": "Kingdom Envoys Soul Winning Tracker",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#7a1f2b",
+  "theme_color": "#591118",
+  "display": "standalone",
+  "orientation": "portrait"
+}
